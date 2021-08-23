@@ -46,8 +46,12 @@ usage of librosa and soundfile along with sci-learn Libraries
 - extracts latitude and longitude values from metadata
 - outputs the data points as a scatterplot on the world map
 - usage of matplotlib , plotly.express and other python modules
+  
+## Team members
+  * Brian Panjaitan
+  * Gursmeep Singh Syan
+  * Vaibhav Saini
 
 ## References 
 Dataset: `https://www.kaggle.com/andrewmvd/covid19-cough-audio-classification`
 `https://www.kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html`
-
